@@ -5,4 +5,5 @@ int main() {
   int a=1;
   a++;
   cout << "OM-" << a;
+  //ku-ku :PPP bebebe
 }
